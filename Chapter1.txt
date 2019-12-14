@@ -1,3 +1,4 @@
 CHAPTER 57
 ==========
-System.out.println("Hello");
+This lab is annoying
+おはよう がいまず
