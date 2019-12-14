@@ -1,4 +1,3 @@
 CHAPTER 57
 ==========
-
-Hello
+System.out.println("Hello");
